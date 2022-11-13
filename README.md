@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Rajat158/Rajat158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 align="center">Hi 👋, I'm Rajat Gupta</h1>
 <h3 align="center">A passionate Python Enthusiast from India</h3>
-
 <img src="https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide-1.jpg" alt="Flowers in Chania" width="350" height="200">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat158&label=Profile%20views&color=0e75b6&style=flat" alt="rajat158" /> </p>
+
+- 🌱 I’m currently learning **Matlab**
 
 - 📫 How to reach me **er.rajatgupta123@gmail.com**
 
@@ -38,3 +39,5 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajat158&show_icons=true&locale=en" alt="rajat158" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajat158&" alt="rajat158" /></p>
+
+
