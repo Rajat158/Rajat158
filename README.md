@@ -1,22 +1,6 @@
-
-<!--
-**Rajat158/Rajat158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Rajat Gupta</h1>
 <h3 align="center">A passionate Python Enthusiast from India</h3>
-<img src="https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide-1.jpg" alt="Flowers in Chania" width="350" height="200">
+<img src="[https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide-1.jpg](https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif)" alt="Flowers in Chania" width="350" height="200">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat158&label=Profile%20views&color=0e75b6&style=flat" alt="rajat158" /> </p>
 
 - 🌱 I’m currently learning **Matlab**
@@ -25,7 +9,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/rajat-gupta-84662a1a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rajat-gupta-84662a1a4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rajat-gupta-84662a1a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat-gupta-84662a1a4" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ec3a158_rajat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ec3a158_rajat" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rajatgupta123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajatgupta123" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/errajatgupta123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/errajatgupta123/" height="30" width="40" /></a>
@@ -39,5 +23,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajat158&show_icons=true&locale=en" alt="rajat158" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajat158&" alt="rajat158" /></p>
-
-
